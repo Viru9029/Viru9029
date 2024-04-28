@@ -54,7 +54,6 @@ Welcome to my GitHub profile! I'm Virendra Kate, an experienced developer with a
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original-wordmark.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" height="30" alt="matplotlib logo"  />
@@ -75,7 +74,7 @@ Welcome to my GitHub profile! I'm Virendra Kate, an experienced developer with a
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg" height="30" alt="kubernetes logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg" height="30" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg" height="30" alt="linkedin logo"  />
   <img width="12" />
