@@ -16,13 +16,15 @@ Welcome to my GitHub profile! I'm Virendra Kate, an experienced developer with a
 - **Tools:** Microservices, Agile methodology, Anaconda, PyCharm, Jupyter Notebook, VSCode, GitHub, ServiceNow, CMDB
 
 <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" height="30" alt="golang logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original-wordmark.svg" height="30" alt="filezilla logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original-wordmark.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
@@ -30,30 +32,72 @@ Welcome to my GitHub profile! I'm Virendra Kate, an experienced developer with a
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/groovy/groovy-original.svg" height="30" alt="groovy logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original-wordmark.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opencv/opencv-original-wordmark.svg" height="30" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original-wordmark.svg" height="30" alt="postman logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original-wordmark.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytest/pytest-original-wordmark.svg" height="30" alt="pytest logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original-wordmark.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" height="30" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grpc/grpc-original.svg" height="30" alt="grpc logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikitlearn logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original-wordmark.svg" height="30" alt="keras logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original-wordmark.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pypi/pypi-original-wordmark.svg" height="30" alt="pypi logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pyscript/pyscript-original-wordmark.svg" height="30" alt="pyscript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/travis/travis-original-wordmark.svg" height="30" alt="travis logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/argocd/argocd-original-wordmark.svg" height="30" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original-wordmark.svg" height="30" alt="ansible logo"  />
 </div>
 
 ## 📊 Profile stats
@@ -93,6 +137,3 @@ Here are some highlights of my projects:
   <a href="mailto:vbkate9@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/virendrakate/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
-
-<!-- Connect with me on [LinkedIn](https://www.linkedin.com/in/virendrakate/) or [Email](vbkate9@gmail.com) to stay updated on my latest projects and insights. -->
-
