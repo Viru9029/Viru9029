@@ -121,6 +121,10 @@ Here are some highlights of my projects:
 3. **Footwear E-commerce (Go lang & Gin Framework)**
    - **Description:** Created the backend of an E-commerce platform using the Gin framework. Developed approximately 20 APIs and implemented authentication. Independently completed the project, showcasing proficiency in Go(lang) development.
    - **Technologies Used:** Go(lang), Gin Framework, Backend Development, API Development, Authentication
+  
+4. **WeatherSnap**
+  - The WeatherSnap is a user-friendly application that provides accurate weather information for any location worldwide. With a clean and intuitive interface, users can quickly check the current weather conditions, including temperature, humidity, wind speed, and more. Whether planning for a trip, organizing outdoor activities, or simply staying informed about the weather, this app offers a convenient way to access up-to-date weather data.
+  - URL : "https://viru9029.github.io/WeatherSnap/"
 
 ## 🔭 Currently Working On
 
