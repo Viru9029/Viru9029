@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm Virendra Kate, an experienced developer with a
 
 ## 💻 Expertise
 
-- **Programming Languages:** Golang, Python, SQL
+- **Programming Languages:** Golang, Python
 - **Data Science:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 - **DevOps & Tools:** IBM Cloud, Docker, Kubernetes, Tekton CI CD, Jenkins, Shell Scripting, Argo CD, AWS EC2, Postman
 - **Web Development:** Django, Flask, Gin, Rest APIs
-- **Databases:** MySQL, MongoDB, Oracle, PostgreSQL
+- **Databases:** SQL, MySQL, MongoDB, Oracle, PostgreSQL
 - **AI Techniques:** Transformer, Huggingface, Pretrained model, Transfer learning, Generative AI
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Math, NLTK, TensorFlow, Keras, PyTorch Lightning
 - **Tools:** Microservices, Agile methodology, Anaconda, PyCharm, Jupyter Notebook, VSCode, GitHub, ServiceNow, CMDB
