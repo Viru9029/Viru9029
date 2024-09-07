@@ -8,9 +8,11 @@ Welcome to my GitHub profile! I'm Virendra Kate, an experienced developer with a
 
 ## 💻 Expertise
 
-- **Programming Languages:** Golang, Python
-- **Data Science:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+- **Programming & Scripting:** Golang, Python, Shell Scripting
+- **Frameworks:** Gin, GORM, gRPC
 - **DevOps & Tools:** IBM Cloud, Docker, Kubernetes, Tekton CI CD, Jenkins, Shell Scripting, Argo CD, AWS EC2, Postman
+- **Cloud Platforms:** IBM Cloud, Cloud-based container technologies, AWS
+- **Data Science:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 - **Web Development:** Django, Flask, Gin, Rest APIs
 - **Databases:** SQL, MySQL, MongoDB, Oracle, PostgreSQL
 - **AI Techniques:** Transformer, Huggingface, Pretrained model, Transfer learning, Generative AI
